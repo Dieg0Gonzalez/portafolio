@@ -21,6 +21,6 @@ $asunto = 'Diegaceny';
 
 
 //Redireccion al haber enviado el form
-header('Location:index.html');
+header('Location:prueba.html');
 
 ?>
