@@ -21,6 +21,6 @@ $asunto = 'Diegaceny';
 
 
 //Redireccion al haber enviado el form
-header('Location:prueba.html');
+header('Location: https://dieg0gonzalez.github.io/portafolio/prueba.html');
 
 ?>
